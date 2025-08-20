@@ -1,0 +1,3 @@
+chat ref on installing and configuring R Lang under VSCODE with Jupyter
+
+https://chatgpt.com/share/68a5c370-0d28-800b-b3e8-c00a6eea5505
